@@ -11,5 +11,7 @@ O objetivo principal é encontrar pares de cartas iguais entre várias cartas vi
 
 # EQUIPE - 
 Beatriz Bonametti
+
 Gabriel Tutia
+
 Thayrine Costa
